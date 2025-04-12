@@ -1,6 +1,7 @@
 body{
     background-image: linear-gradient(to left,black,yellow,black);
     align-items: center;
+    overflow-x: hidden;
     
 }
 #campo{
